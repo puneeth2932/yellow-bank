@@ -1,0 +1,23 @@
+
+
+{
+  "status": "success",
+  "loans": [
+    {
+      "loan_id": "L-98721",
+      "type": "Home Loan",
+      "tenure": "15 Years",
+      "interest_rate": "8.5%",
+      "internal_audit_code": "SEC-9921",
+      "branch_id": "YP-MUM-01"
+    },
+    {
+      "loan_id": "L-65432",
+      "type": "Car Loan",
+      "tenure": "5 Years",
+      "interest_rate": "9.2%",
+      "internal_audit_code": "SEC-1123",
+      "branch_id": "YP-BLR-02"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+
+
+{
+  "status": "success",
+  "loan_id": "L-98721",
+  "type": "Home Loan",
+  "tenure": "15 Years",
+  "interest_rate": "8.5%",
+  "outstanding_amount": "₹24,50,000",
+  "emi_amount": "₹25,000",
+  "next_due_date": "15 March 2026"
+}
